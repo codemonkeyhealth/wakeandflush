@@ -17,4 +17,4 @@ If 16 to 24 ounces is too difficult begin by taking a large drink of water from 
 
 > WakeandFlush and [FirstFuel](https://github.com/codemonkeyhealth/firstfuel "FirstFuel") are two basics that will make [Scheduler](https://github.com/codemonkeyhealth/scheduler "Scheduler"), [WorkDay](https://github.com/codemonkeyhealth/workday "WorkDay"), and [Hydrator](https://github.com/codemonkeyhealth/hydrator "Hydrator") run better.
 
-Extra tools for WakeandFlush and FirstFuel can be found on [CodeMonkeyHealth.com](http://codemonkeyhealth.com "Code Monkey Health").
+Extra tools for WakeandFlush and [FirstFuel](https://github.com/codemonkeyhealth/firstfuel "FirstFuel") can be found on [CodeMonkeyHealth.com](http://codemonkeyhealth.com "Code Monkey Health").
